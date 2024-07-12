@@ -2,10 +2,7 @@
 
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 
-- [Hacking WPA/WPA2 Networks](https://github.com/)
-- [OWASP Juice Shop](https://github.com/)
-- [Security Incident Report](https://github.com/)
-- [SOC Analyst Home Lab](https://github.com/)
+- [THM Walkthroughs](https://github.com/Lipe-Silva/THM_Walkthroughs)
 - [Assembly Malware](https://github.com/Lipe-Silva/assembly_sec)
 
 <h2> Web-Dev Projects:</h2>
