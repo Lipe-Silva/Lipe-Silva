@@ -4,6 +4,7 @@
 
 - [THM Walkthroughs](https://github.com/Lipe-Silva/THM_Walkthroughs)
 - [Assembly Malware](https://github.com/Lipe-Silva/assembly_sec)
+- [Python Keylogger](https://github.com/Lipe-Silva/simple_keylogger)
 
 <h2> Web-Dev Projects:</h2>
 
