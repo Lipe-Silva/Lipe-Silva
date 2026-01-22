@@ -13,7 +13,7 @@
 
 <h2> 🎖️ Certifications:</h2>
 
-- [Google Cybersecurity Certificate](https://coursera.org/share/b4dae691ac01b87830f04382b0effc5c)
+- [eJPT](https://certs.ine.com/e1d4e3fc-c256-4732-9e02-534dbd7e70ef#acc.cJQu3ClX)
 - [Security+](https://www.credly.com/badges/33710e5f-bafc-47f8-9a15-e70356ddb37f/public_url)
 - [Pentest+](https://www.credly.com/badges/33710e5f-bafc-47f8-9a15-e70356ddb37f/public_url)
 
