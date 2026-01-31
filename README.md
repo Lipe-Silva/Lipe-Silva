@@ -1,5 +1,15 @@
 <h1>Hi, I'm Philip Silva! </h1>    <img src="https://tryhackme-badges.s3.amazonaws.com/Lipesilva.png" alt="TryHackMe">
 
+<h2>About Me:</h2>
+
+I am a penetration tester with 3+ years of field experience. I deliver offensive security assessments across governmental, financial, and enterprise environments. I specialize in identifying real-world risks, testing security controls, and driving measurable reductions in cyber threat exposure.
+
+My recent work includes penetration testing mission-critical web applications for entities of the Brazilian government and large corporate environments. This contributed to a 70% reduction in attack surfaces. I’ve performed advanced web application penetration tests using Burp Suite and assessed WAF-protected environments. I conducted internal network and Active Directory security tests using tools like Nmap, Metasploit, Rubeus, and Bloodhound. These efforts directly supported the company in achieving ISO 127001 certification.
+
+In earlier roles, I have worked on AI security research and delivered a technical presentation on adversarial attacks against AI systems and LLMs. As well as supporting PCI-DSS compliance efforts for financial institutions and delivering security assessments to 10+ organizations, enabling risk reduction by up to 80%.
+
+I’m known for strong technical communication, ownership of complex assessments, and reliability in high-trust remote environments. I hold certifications, including eJPT and CompTIA PenTest+, with the OSCP in progress, and I’m seeking remote penetration testing, offensive security, or security research roles with US- or EU-based teams.
+
 <h2> 👨‍💻 Cybersecurity Projects:</h2>
 
 - [THM Walkthroughs](https://github.com/Lipe-Silva/THM_Walkthroughs)
