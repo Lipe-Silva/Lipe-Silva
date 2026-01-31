@@ -1,4 +1,4 @@
-<h1>Hi, I'm Philip Silva! </h1>    <img src="https://tryhackme-badges.s3.amazonaws.com/Lipesilva.png" alt="TryHackMe">
+<h1>Hi, I'm Philip Silva! </h1>
 
 <h2>About Me:</h2>
 
@@ -30,6 +30,8 @@ I’m known for strong technical communication, ownership of complex assessments
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="PhilipSilva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Lipesilva.png" alt="TryHackMe">
 
 
 [linkedin]: https://www.linkedin.com/in/philip-silva-cybersec/
