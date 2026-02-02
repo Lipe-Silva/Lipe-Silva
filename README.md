@@ -17,7 +17,7 @@ I’m known for strong technical communication, ownership of complex assessments
 
 ## ⚡ Cybersecurity Projects:
 
-- [THM Walkthroughs](https://github.com/Lipe-Silva/THM_Walkthroughs)
+- [CTFs Walkthroughs](https://github.com/Lipe-Silva/CTF-Walkthroughs)
 - [Assembly Malware](https://github.com/Lipe-Silva/assembly_sec)
 - [Python Keylogger](https://github.com/Lipe-Silva/simple_keylogger)
 
