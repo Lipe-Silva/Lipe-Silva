@@ -29,6 +29,7 @@ I’m known for strong technical communication, ownership of complex assessments
 ## 🎖️ Certifications:
 
 - [eJPT](https://certs.ine.com/e1d4e3fc-c256-4732-9e02-534dbd7e70ef#acc.cJQu3ClX)
+- [eWPT](https://certs.ine.com/979d487e-3d76-45cd-89cf-996522a1ad54#acc.lqfVsjSz)
 - [Pentest+](https://www.credly.com/badges/33710e5f-bafc-47f8-9a15-e70356ddb37f/public_url)
 
 
